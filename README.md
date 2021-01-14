@@ -1,9 +1,9 @@
 # SnailPack
-A minecraft 1.16.3 anarchy resourcepack for all seasnail enthusiasts!
-Mostly custom made (some skidded) textures centered around anarchy servers and crystal pvp. I would recommend using the pack paired with optifine to get the custom sky although please note it is not required also optifine bad i just like cool sky. The pack includes custom armor and entity models along with over 120 custom item textures. Also includes a few animated textures such as the 1024x1024 totem and ender pearl textures. The pack should work for 1.15 although all of the testing i have done has been in 1.16. Please suggest additions and changes to help me improve the pack and i hope you enjoy using it to ez some kids ;)
+Snailpack is a minecraft 1.16.x crystalpvp resourcepack!
+Mostly custom made textures centered around anarchy servers and crystal pvp. Please suggest additions and changes to help me improve the pack and i am open to contributions!
 
 ## How can i use this?
-Head over to the [curseforge page](https://www.curseforge.com/minecraft/texture-packs/snailpack) and download it from there or grab it from the releases tab on the right of your screen.
+Head over to the [curseforge page](https://www.curseforge.com/minecraft/texture-packs/snailpack) and download it from there or grab it from the [releases](https://github.com/seasnail8169/SnailPack/releases) tab and download the latest release.
 
 ## **Support**
 
@@ -16,6 +16,3 @@ This work is licensed under the Creative Commons Attribution-NonCommercial-Share
 To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/.
 
 Copyright (c) 2020 seasnail8169
-
-
-P.s: i will make a proper showcase soon!
