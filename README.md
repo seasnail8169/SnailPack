@@ -15,4 +15,4 @@ Having issues with this pack? Check out [my discord server](https://discord.gg/P
 This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
 To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/.
 
-Copyright (c) 2020 seasnail8169
+Copyright (c) 2021 seasnail8169
