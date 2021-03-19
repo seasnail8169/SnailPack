@@ -1,23 +1,17 @@
-# SnailPack
+#### About
+Snail Pack is a latest version Minecraft resource pack for Crystal PvP.
 
-Snailpack is a minecraft 1.16.x crystalpvp resourcepack!
-Mostly custom made textures centered around anarchy servers and crystal pvp. Please suggest additions and changes to
-help me improve the pack and i am open to contributions!
+#### Downloads
+- [Curse Forge](https://www.curseforge.com/minecraft/texture-packs/snailpack)
+- [GitHub Releases](https://github.com/seasnail8169/snail-pack/releases/latest)
 
-## How can I use this?
+#### Installation
+1. Download (above)
+2. Place it in your `.minecraft/resourcepacks` folder.
+3. Enable it by going to Minecraft in-game options -> resource packs and clicking the arrow on Snail Pack to make it active.
 
-Head over to the [curseforge page](https://www.curseforge.com/minecraft/texture-packs/snailpack) and download it from
-there or grab it from the [releases](https://github.com/seasnail8169/SnailPack/releases) tab and download the latest
-release.
+#### Contributions
+Feel free to suggest or pull request any contributions, I will review everything.
 
-## **Support**
-
-Having issues with this pack? Check out [my discord server](https://discord.gg/Pta3APY).
-[![Discord Chat](https://img.shields.io/discord/750784696283299911.svg)](https://discord.gg/Pta3APY)
-
-## **License**
-
-This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. To view
-a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/.
-
-Copyright (c) 2021 seasnail8169
+#### Licensing
+You are free to use any part of the pack as long as you give credit and link the original pack.
