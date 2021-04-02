@@ -1,17 +1,11 @@
-#### About
-Snail Pack is a latest version Minecraft resource pack for Crystal PvP.
+<h1 align="center">Snail Pack<br><img src="https://img.shields.io/github/downloads/seasnail8169/snail-pack/total.svg" alt="downloads"/></h1>
 
-#### Downloads
-- [Curse Forge](https://www.curseforge.com/minecraft/texture-packs/snailpack)
-- [GitHub Releases](https://github.com/seasnail8169/snail-pack/releases/latest)
+A full, organised and themed 1.16 overlay resource pack for anarchy and crystal pvp servers.
 
 #### Installation
-1. Download (above)
+1. Download from [releases](https://github.com/seasnail8169/snail-pack/releases/latest).
 2. Place it in your `.minecraft/resourcepacks` folder.
-3. Enable it by going to Minecraft in-game options -> resource packs and clicking the arrow on Snail Pack to make it active.
-
-#### Contributions
-Feel free to suggest or pull request any contributions, I will review everything.
+3. Enable it by going to Minecraft options => resource packs and clicking the small arrow to activate it.
 
 #### Licensing
 You are free to use any part of the pack as long as you give credit and link the original pack.
