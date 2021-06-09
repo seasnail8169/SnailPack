@@ -4,10 +4,10 @@
   <img src="https://img.shields.io/github/downloads/seasnail8169/snail-pack/total.svg" alt="github-downloads"/>
 </h1>
 
-A full, organised and themed 1.16 overlay resource pack for anarchy and crystal pvp servers.
+A full themed 1.17 overlay resource pack for anarchy and crystal pvp server players.
 
 #### Installation
-1. Download from [releases](https://github.com/seasnail8169/snail-pack/releases/latest).
+1. Download the latest release from [releases](https://github.com/seasnail8169/snail-pack/releases/latest).
 2. Place it in your `.minecraft/resourcepacks` folder.
 3. Enable it by going to Minecraft options => resource packs and clicking the small arrow to activate it.
 
