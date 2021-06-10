@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/github/downloads/seasnail8169/snail-pack/total.svg" alt="github-downloads"/>
 </h1>
 
-A full themed 1.17 overlay resource pack for anarchy and crystal pvp server players.
+A snail themed 1.17 overlay resource pack for anarchy and crystal pvp server players.
 
 #### Installation
 1. Download the latest release from [releases](https://github.com/seasnail8169/snail-pack/releases/latest).
