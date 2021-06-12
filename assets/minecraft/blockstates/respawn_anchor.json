@@ -1,19 +1,19 @@
 {
   "variants": {
     "charges=0": {
-      "model": "minecraft:block/respawn_anchor_0"
+      "model": "minecraft:block/respawn_anchor/0"
     },
     "charges=1": {
-      "model": "minecraft:block/respawn_anchor_1"
+      "model": "minecraft:block/respawn_anchor/1"
     },
     "charges=2": {
-      "model": "minecraft:block/respawn_anchor_2"
+      "model": "minecraft:block/respawn_anchor/2"
     },
     "charges=3": {
-      "model": "minecraft:block/respawn_anchor_3"
+      "model": "minecraft:block/respawn_anchor/3"
     },
     "charges=4": {
-      "model": "minecraft:block/respawn_anchor_4"
+      "model": "minecraft:block/respawn_anchor/4"
     }
   }
 }
